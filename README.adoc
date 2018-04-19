@@ -22,6 +22,12 @@ Currently, DCS-BIOS supports the following aircraft modules:
 * UH-1H
 * Mig-21Bis (contributed by wraith444)
 * Ka-50 (contributed by airtom)
+* Mi-8 (contributed by ArturDCS)
+* F-86F (contributed by ArturDCS)
+* FW-190 (contributed by ArturDCS)
+* Bf-109-K-4 (contributed by ArturDCS)
+* P-51D (contributed by pdmarsh)
+* L-39ZA (contributed by kadda11)
 
 If you want to add support for another module, please get in touch.
 

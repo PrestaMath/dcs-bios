@@ -25,6 +25,12 @@ dofile(lfs.writedir()..[[Scripts\DCS-BIOS\lib\A10C.lua]])
 dofile(lfs.writedir()..[[Scripts\DCS-BIOS\lib\UH1H.lua]])
 dofile(lfs.writedir()..[[scripts\dcs-bios\lib\mig21.lua]])
 dofile(lfs.writedir()..[[scripts\dcs-bios\lib\Ka50.lua]])
+dofile(lfs.writedir()..[[scripts\dcs-bios\lib\Mi8MT.lua]])
+dofile(lfs.writedir()..[[scripts\dcs-bios\lib\F86.lua]])
+dofile(lfs.writedir()..[[scripts\dcs-bios\lib\FW190D9.lua]])
+dofile(lfs.writedir()..[[scripts\dcs-bios\lib\Bf109k4.lua]])
+dofile(lfs.writedir()..[[scripts\dcs-bios\lib\P-51D.lua]])
+dofile(lfs.writedir()..[[scripts\dcs-bios\lib\L-39ZA.lua]])
 
 dofile(lfs.writedir()..[[Scripts\DCS-BIOS\BIOSConfig.lua]])
 
