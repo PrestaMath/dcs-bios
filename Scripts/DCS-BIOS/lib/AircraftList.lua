@@ -22,3 +22,8 @@ a("F-86F Sabre", true)
 a("FW-190D9", true)
 a("Bf-109K-4", true)
 a("SpitfireLFMkIX", true)
+a("AJS37", true)
+a("SA342M", true)
+a("SA342L", true)
+a("SA342Mistral", true)
+
